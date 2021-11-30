@@ -1,0 +1,9 @@
+server:
+  port: 83
+
+eureka:
+  client:
+    enabled: false
+spring:
+  application:
+    name: service-verification-code
